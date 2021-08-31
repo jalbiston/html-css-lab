@@ -1,0 +1,23 @@
+.box {
+  height: 200px;
+  width: 70%;
+  border: black solid 5px;
+  margin: 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.box2 {
+  height: 120px;
+  width: 2.5%;
+  background-color: purple;
+  position: absolute;
+  top: 70px;
+  left: 240px;
+}
+
+.box3 {
+  height: 120px;
+  width: 30%;
+  background-color: green;
+}
